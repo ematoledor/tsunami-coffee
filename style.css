@@ -29,7 +29,7 @@ body {
 
 nav {
   background-color: OrangeRed;
-  color: White;
+  color: gray;
 
 }
 
@@ -97,7 +97,7 @@ li {
 }
 
 footer {
-  background-color: OrangeRed;
+  background-color: blueviolet;
   padding: 0 1rem;
 }
 
